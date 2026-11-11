@@ -1,5 +1,11 @@
 # InformationExperiment2
 
+# ローカル環境に本リポジトリをクローンする手順
+
+```powershell
+cd "C:\任意のフォルダ"
+git clone https://github.com/BP24043/InformationExperiment2
+```
 
 
 # GitHubのリモートリポジトリに接続する手順（※Windows）
